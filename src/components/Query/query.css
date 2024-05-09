@@ -1,0 +1,11 @@
+#bodycontact {
+    background-color: #4f93f3c1 !important; /* Light gray background color for the header */
+  }
+  
+  tbody {
+    background-color: #d33f3f; /* White background color for the body */
+  }
+  #line{
+    border-left:1px solid black  ;
+  }
+  

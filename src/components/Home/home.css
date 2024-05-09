@@ -1,0 +1,41 @@
+
+.home-container {
+    background-color: rgb(166, 200, 230); /* Background color for the Home component */
+    height: 100vh; /* Set the height to fill the viewport */
+    overflow: hidden; 
+    background-size: cover;
+    background-position: center; 
+    margin: 0;
+    padding: 0;
+  }
+/* body{
+    margin: 0;
+    padding: 0;
+   
+    height: 100vh;
+} */
+.container {
+    height: 100%; 
+  }
+  
+  .vh-100 {
+    height: 100%; 
+  }
+
+  #book{
+    align-items: center;
+    
+  }
+    
+#home{
+    background-color: rgb(240, 244, 244);
+    background-size: auto;
+    width: 80%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    border-radius: 14px;
+    justify-content: center;
+    /* align-items: center; */
+    margin: auto; 
+}
+
+  

@@ -1,0 +1,11 @@
+#bodynews {
+    background-color: #5f99ebc1; /* Light gray background color for the header */
+  }
+  
+  tbody {
+    background-color: #d33f3f; /* White background color for the body */
+  }
+  #line{
+    border-left:1px solid black  ;
+  }
+  

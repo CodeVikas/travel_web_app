@@ -1,0 +1,10 @@
+.navbar-nav{
+    --bs-scroll-height: 100px;
+}
+.bi bi-airplane{
+    color: white;
+}
+.navbar-nav-scroll {
+    display: flex; 
+    justify-content: center; 
+  }

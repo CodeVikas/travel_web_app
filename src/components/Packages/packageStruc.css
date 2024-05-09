@@ -1,0 +1,17 @@
+.card{
+    width: 18rem;
+}
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Adjust as needed */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+}
+
+
+.card {
+    width: 30%; /* Adjust card width as needed */
+    margin-bottom: 20px; /* Add margin between cards */
+}
+.container{
+    background-color: white !important;
+}
